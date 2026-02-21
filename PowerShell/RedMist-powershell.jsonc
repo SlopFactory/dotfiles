@@ -1,0 +1,28 @@
+{
+// drop into settings.json
+    "schemes": [
+        {
+            "background": "#330600",
+            "black": "#999999",
+            "blue": "#0040FF",
+            "brightBlack": "#eb1600",
+            "brightBlue": "#3B78FF",
+            "brightCyan": "#80FFFF",
+            "brightGreen": "#16C60C",
+            "brightPurple": "#FF4DEA",
+            "brightRed": "#ff614d",
+            "brightWhite": "#ffdd1a",
+            "brightYellow": "#F9F09F",
+            "cursorColor": "#FF0000",
+            "cyan": "#00FFFF",
+            "foreground": "#ffdd1a",
+            "green": "#13A10E",
+            "name": "Orange yo",
+            "purple": "#B41EC8",
+            "red": "#C50F1F",
+            "selectionBackground": "#1a0300",
+            "white": "#ffdd1a",
+            "yellow": "#FFFFFF"
+        }
+    ]
+}
